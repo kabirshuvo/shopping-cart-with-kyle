@@ -1,37 +1,37 @@
 [
   {
     "id": 1,
-    "name": "book",
+    "name": "Book",
     "price": 10.99,
     "imgUrl": "https://images.unsplash.com/photo-1589998059171-988d887df646?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Ym9va3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60"
   },
   {
     "id": 2,
-    "name": "ledger",
+    "name": "Ledger",
     "price": 11.1,
     "imgUrl": "https://plus.unsplash.com/premium_photo-1661297530934-53ba09e4d948?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGxlZGdlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60"
   },
   {
     "id": 3,
-    "name": "bag",
+    "name": "Bag",
     "price": 12.3,
     "imgUrl": "https://images.unsplash.com/photo-1504424715129-fa3bcb0b8903?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHNjaG9vbCUyMGJhZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60"
   },
   {
     "id": 4,
-    "name": "pen",
+    "name": "Pen",
     "price": 13.7,
     "imgUrl": "https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGVufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
   },
   {
     "id": 5,
-    "name": "tent",
+    "name": "Tent",
     "price": 14.9,
     "imgUrl": "https://images.unsplash.com/photo-1508873696983-2dfd5898f08b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8dGVudHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60"
   },
   {
     "id": 6,
-    "name": "pant",
+    "name": "Pant",
     "price": 15.09,
     "imgUrl": "https://images.unsplash.com/photo-1624378440847-4a64ee1a889d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHBhbnR8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60"
   }
